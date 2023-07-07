@@ -12,7 +12,7 @@ basic social interactions. Some signs and symptoms include:
 - Using a distinctive tone or rhythm when speaking
 * Fails to responds to his or her name.
   
-The goal of this project is to evaluate the performance of implementing backward feature selection-based ML algorithms such as “SVM”, “Random Forest”, “Logistic
+The goal of this project is to evaluate the performance of implementing Sequential feature selector-based ML algorithms such as “SVM”, “Random Forest”, “Logistic
 Regression”, “Naive Bayes”, and “K- Nearest Neighbor” on two datasets such as child and adults each of which contains 21 features.Logistic Regression performs better
 both before and after the use of feature selection.
 
